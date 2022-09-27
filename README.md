@@ -2,7 +2,7 @@
 
 ### :book: Sobre mim:
 - 💻 UI/UX Designer e Front-End Developer
-- 👨‍🎓 20 anos
+- 👨‍🎓 21 anos
 - 🌐 Idiomas: Português | English | Español
 - 📧 contato@vvictin.com
 
