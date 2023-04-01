@@ -4,7 +4,7 @@
 - 💻 UI/UX Designer e Front-End Developer
 - 👨‍🎓 21 anos
 - 🌐 Idiomas: Português | English | Español
-- 📧 contato@vvictin.com
+- 📧 info@victin.me
 
 #
 
